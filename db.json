@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "read my book",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "cook lunch",
+      "completed": false
+    },
+    {
+      "id": "acf7",
+      "title": "wash dishes",
+      "completed": false
+    },
+    {
+      "id": "af06",
+      "title": "study english",
+      "completed": false
+    },
+    {
+      "id": "fac3",
+      "title": "run for 1h",
+      "completed": false
+    }
+  ]
+}
